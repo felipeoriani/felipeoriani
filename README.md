@@ -20,6 +20,6 @@ I have been working as a Software Engineer since 2004 focused on computer scienc
 
 [![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&hide=C%23,Rust,Shell,Python,ASP,Dockerfile&custom_title=Top%20Frontend%20Languages&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :unlock: Open Source
+### :unlock: Open Source Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark)](https://github.com/felipeoriani/fynance)
