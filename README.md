@@ -10,7 +10,7 @@ I have been working as a Software Engineer since 2004 focused on computer scienc
 
 - [LinkedIn](https://www.linkedin.com/in/felipeoriani/?locale=en_US)
 - [Stack Overflow](https://stackoverflow.com/users/316799/felipe-oriani?tab=profile)
-- [Certificações](https://www.youracclaim.com/users/felipeoriani/)
+- [Certifications](https://www.youracclaim.com/users/felipeoriani/)
 
 ### :octocat: Github Stats 
 
@@ -19,3 +19,7 @@ I have been working as a Software Engineer since 2004 focused on computer scienc
 [![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&langs_count=6&hide=Javascript,CSS,HTML,TypeScript,ASP&custom_title=Top%20Backend%20Languages&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&hide=C%23,Rust,Shell,Python,ASP,Dockerfile&custom_title=Top%20Frontend%20Languages&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :unlock: Open Source
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark)](https://github.com/felipeoriani/fynance)
