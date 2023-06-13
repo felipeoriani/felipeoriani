@@ -14,12 +14,12 @@ I have been working as a Software Engineer since 2004 focused on computer scienc
 
 ### :octocat: Github Stats 
 
-[![Felipe Oriani's github stats](https://github-readme-stats.vercel.app/api?username=felipeoriani&show_icons=true&count_private=false&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe Oriani's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=felipeoriani&show_icons=true&count_private=false&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&langs_count=6&hide=Javascript,CSS,HTML,TypeScript,ASP&custom_title=Top%20Backend%20Languages&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Backend Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&langs_count=6&hide=Javascript,CSS,HTML,TypeScript,ASP&custom_title=Top%20Backend%20Languages&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&hide=C%23,Rust,Shell,Python,ASP,Dockerfile&custom_title=Top%20Frontend%20Languages&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Frontend Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&hide=C%23,Rust,Shell,Python,ASP,Dockerfile&custom_title=Top%20Frontend%20Languages&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :unlock: Open Source Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark)](https://github.com/felipeoriani/fynance)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark)](https://github.com/felipeoriani/fynance)
