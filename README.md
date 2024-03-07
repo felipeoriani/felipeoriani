@@ -31,8 +31,8 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 
 ### :octocat: Github Stats 
 
-[![Felipe Oriani's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=felipeoriani&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe Oriani's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=felipeoriani&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/felipeoriani)
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&count_private=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&count_private=true&theme=vision-friendly-dark)](https://github.com/felipeoriani)
 
 Thank you.
