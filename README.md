@@ -9,9 +9,24 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 - [Certifications](https://www.youracclaim.com/users/felipeoriani/)
 - [Stack Overflow](https://stackoverflow.com/users/316799/felipe-oriani?tab=profile)
 
-### :unlock: Open Source Projects
+### Projects
+
+#### :unlock: Open Source Projects - Packages
 
 [![Fynance](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark)](https://github.com/felipeoriani/fynance)
+
+#### :older_man: Challengers Project
+
+
+[![rinha-backend-24q1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=rinha-backend-24q1&theme=vision-friendly-dark)](https://github.com/felipeoriani/rinha-backend-24q1)
+
+[![euler](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=euler&theme=vision-friendly-dark)](https://github.com/felipeoriani/euler)      
+
+#### :older_man: Old Projects
+
+[![Mindicators](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mindicators&theme=vision-friendly-dark)](https://github.com/felipeoriani/mindicators)
+
+[![dotnet-northwind-training](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=dotnet-northwind-training&theme=vision-friendly-dark)](https://github.com/felipeoriani/dotnet-northwind-training)
 
 ### :octocat: Github Stats 
 
