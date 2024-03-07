@@ -13,46 +13,34 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 
 #### :unlock: Open Source Projects - Packages
 
-[![Fynance](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark)](https://github.com/felipeoriani/fynance)
+<a href="https://github.com/felipeoriani/fynance" title="Fynance Package">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark" />
+</a>
 
-#### 💥 Challengers Project
+#### 💥 Challenging Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/felipeoriani/rinha-backend-24q1" title="Rinha Backend 2024 Q1 - C# .NET Postgres">
-        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=rinha-backend-24q1&theme=vision-friendly-dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/felipeoriani/euler" title="Project Euler - Python">
-        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=euler&theme=vision-friendly-dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/felipeoriani/mars-rover-problem" title="Mars Rover Problem - C# .NET xUnit">
-        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mars-rover-problem&theme=vision-friendly-dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/felipeoriani/rinha-backend-24q1" title="Rinha Backend 2024 Q1 - C# .NET Postgres">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=rinha-backend-24q1&theme=vision-friendly-dark" />
+</a>
+<br>
+<a href="https://github.com/felipeoriani/euler" title="Project Euler - Python">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=euler&theme=vision-friendly-dark" />
+</a>
 
+<a href="https://github.com/felipeoriani/mars-rover-problem" title="Mars Rover Problem - C# .NET xUnit">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mars-rover-problem&theme=vision-friendly-dark" />
+</a>
+  
 #### :older_man: Old Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/felipeoriani/mindicators" title="Mindicators">
-        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mindicators&theme=vision-friendly-dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/felipeoriani/dotnet-northwind-training" title=".NET Training">
-        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=dotnet-northwind-training&theme=vision-friendly-dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/felipeoriani/mindicators" title="Mindicators - Node.Js Javascript MySQL">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mindicators&theme=vision-friendly-dark" />
+</a>
+
+<a href="https://github.com/felipeoriani/dotnet-northwind-training" title=".NET C# Training">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=dotnet-northwind-training&theme=vision-friendly-dark" />
+</a>
+
 
 ### :octocat: Github Stats 
 
