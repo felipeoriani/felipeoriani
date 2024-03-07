@@ -17,17 +17,42 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 
 #### 💥 Challengers Project
 
-[![rinha-backend-24q1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=rinha-backend-24q1&theme=vision-friendly-dark)](https://github.com/felipeoriani/rinha-backend-24q1)
-
-[![euler](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=euler&theme=vision-friendly-dark)](https://github.com/felipeoriani/euler)      
-
-[![mars-rover-problem](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mars-rover-problem&theme=vision-friendly-dark)](https://github.com/felipeoriani/mars-rover-problem)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/felipeoriani/rinha-backend-24q1" title="Rinha Backend 2024 Q1 - C# .NET Postgres">
+        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=rinha-backend-24q1&theme=vision-friendly-dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/felipeoriani/euler" title="Project Euler - Python">
+        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=euler&theme=vision-friendly-dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/felipeoriani/mars-rover-problem" title="Mars Rover Problem - C# .NET xUnit">
+        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mars-rover-problem&theme=vision-friendly-dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### :older_man: Old Projects
 
-[![Mindicators](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mindicators&theme=vision-friendly-dark)](https://github.com/felipeoriani/mindicators)
-
-[![dotnet-northwind-training](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=dotnet-northwind-training&theme=vision-friendly-dark)](https://github.com/felipeoriani/dotnet-northwind-training)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/felipeoriani/mindicators" title="Mindicators">
+        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=mindicators&theme=vision-friendly-dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/felipeoriani/dotnet-northwind-training" title=".NET Training">
+        <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=dotnet-northwind-training&theme=vision-friendly-dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### :octocat: Github Stats 
 
