@@ -4,7 +4,6 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 
 ### 🔗 Links
 
-- [CV](https://drive.google.com/file/d/1fWtlbqrpc2Dzp8DnphQxKmvwZDF1Z-Ri/view)
 - [LinkedIn](https://www.linkedin.com/in/felipeoriani/)
 - [Certifications](https://www.youracclaim.com/users/felipeoriani/)
 - [Stack Overflow](https://stackoverflow.com/users/316799/felipe-oriani?tab=profile)
