@@ -16,7 +16,7 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
   <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=fynance&theme=vision-friendly-dark" />
 </a>
 
-#### 💥 Challenging Projects
+#### ✔️ Challenging Projects
 
 <a href="https://github.com/felipeoriani/rinha-backend-24q1" title="Rinha Backend 2024 Q1 - C# .NET Postgres">
   <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=rinha-backend-24q1&theme=vision-friendly-dark" />
