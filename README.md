@@ -47,4 +47,8 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&count_private=true&theme=vision-friendly-dark)](https://github.com/felipeoriani)
 
+![](https://komarev.com/ghpvc/?username=felipeoriani&color=blue)
+
 Thank you.
+
+
