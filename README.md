@@ -10,6 +10,12 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 
 ### 💻 Projects
 
+#### ☁️ Cloud Native Projects
+
+<a href="https://github.com/felipeoriani/aws-serverless-nodejs-typescript-sample" title="AWS Serverless Node.Js Typescript">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=aws-serverless-nodejs-typescript-sample&theme=vision-friendly-dark" />
+</a>
+
 #### :unlock: Open Source Projects - Packages
 
 <a href="https://github.com/felipeoriani/fynance" title="Fynance Package">
