@@ -8,8 +8,6 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 - [Certifications](https://www.youracclaim.com/users/felipeoriani/)
 - [Stack Overflow](https://stackoverflow.com/users/316799/felipe-oriani?tab=profile)
 
-![](https://komarev.com/ghpvc/?username=felipeoriani&color=blue)
-
 ### 💻 Projects
 
 #### ☁️ Cloud Projects
@@ -56,6 +54,8 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&count_private=true&theme=vision-friendly-dark)](https://github.com/felipeoriani)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipeoriani&theme=onedark&title=LongTimeUser,Experience,Stars,Commits,Followers,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=felipeoriani&color=blue)
 
 Thank you.
 
