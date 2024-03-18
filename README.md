@@ -3,10 +3,12 @@
 Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`, `Javascript`, `Typescript` and also software engineering practices. Proven ability to `AWS` and `Azure` cloud providers to design and implement cloud native solutions and also to soft skills such as _communication_, _teamwork_, _mentoring_, _training_ and _leadership_. This is my `Portfolio` which is constantly under construction and here you can check some repositories with demo projects, code samples, open source projects, packages and more.
 
 ### 🔗 Links
-
+- [CV](https://drive.google.com/file/d/1fWtlbqrpc2Dzp8DnphQxKmvwZDF1Z-Ri/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/felipeoriani/)
 - [Certifications](https://www.youracclaim.com/users/felipeoriani/)
 - [Stack Overflow](https://stackoverflow.com/users/316799/felipe-oriani?tab=profile)
+
+![](https://komarev.com/ghpvc/?username=felipeoriani&color=blue)
 
 ### 💻 Projects
 
@@ -53,7 +55,7 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeoriani&layout=compact&count_private=true&theme=vision-friendly-dark)](https://github.com/felipeoriani)
 
-![](https://komarev.com/ghpvc/?username=felipeoriani&color=blue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=felipeoriani&theme=onedark&title=LongTimeUser,Experience,Stars,Commits,Followers,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 Thank you.
 
