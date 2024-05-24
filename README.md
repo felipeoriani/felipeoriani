@@ -16,7 +16,7 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
   <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=aws-serverless-nodejs-typescript-sample&theme=vision-friendly-dark" />
 </a>
 
-<a href="https://github.com/felipeoriani/task-service" title="AWS ECS Fargate Node.Js Typescript REST API">
+<a href="https://github.com/felipeoriani/nodejs-typescript-express-rest-api" title="Node.Js Typescript REST API">
   <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=task-service&theme=vision-friendly-dark" />
 </a>
 
