@@ -20,13 +20,11 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
   <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=task-service&theme=vision-friendly-dark" />
 </a>
 
-### How To Projects
+#### :pill: How To Projects
 
 <a href="[https://github.com/felipeoriani/nodejs-typescript-express-rest-api](https://github.com/felipeoriani/nodejs-database-concurrency)" title="Node.JS Database Concurrency">
   <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=nodejs-database-concurrency&theme=vision-friendly-dark" />
 </a>
-
-
 
 #### :unlock: Open Source Projects - Packages
 
