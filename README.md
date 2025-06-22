@@ -3,8 +3,8 @@
 Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`, `Javascript`, `Typescript` and also software engineering practices. Proven ability to `AWS` and `Azure` cloud providers to design and implement cloud native solutions and also to soft skills such as _communication_, _teamwork_, _mentoring_, _training_ and _leadership_. This is my `Portfolio` which is constantly under construction and here you can check some repositories with demo projects, code samples, open source projects, packages and more.
 
 ### 🔗 Links
-- [CV](https://drive.google.com/file/d/1fWtlbqrpc2Dzp8DnphQxKmvwZDF1Z-Ri/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/felipeoriani/)
+- <s>[CV](https://drive.google.com/file/d/1fWtlbqrpc2Dzp8DnphQxKmvwZDF1Z-Ri/view?usp=sharing)</s> - outdated
 - [Certifications](https://www.youracclaim.com/users/felipeoriani/)
 - [Stack Overflow](https://stackoverflow.com/users/316799/felipe-oriani?tab=profile)
 
