@@ -26,6 +26,11 @@ Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`
   <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=nodejs-database-concurrency&theme=vision-friendly-dark" />
 </a>
 
+
+<a href="https://github.com/felipeoriani/rust-raw-rest-api" title="Rust Raw Rest API - PostgreSql">
+  <img width="350" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=felipeoriani&repo=rust-raw-rest-api&theme=vision-friendly-dark" />
+</a>
+
 #### :unlock: Open Source Projects - Packages
 
 <a href="https://github.com/felipeoriani/fynance" title="Fynance Package">
