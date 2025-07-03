@@ -1,6 +1,8 @@
 ## Portfolio 
 
-Senior Software Engineer with 18+ years of experience in `.NET`, `C#`, `Node.Js`, `Javascript`, `Typescript` and also software engineering practices. Proven ability to `AWS` and `Azure` cloud providers to design and implement cloud native solutions and also to soft skills such as _communication_, _teamwork_, _mentoring_, _training_ and _leadership_. This is my `Portfolio` which is constantly under construction and here you can check some repositories with demo projects, code samples, open source projects, packages and more.
+Senior Software Engineer with 18+ years of experience working in different stack such as `Node.Js`, `Javascript`, `Typescript`, `.NET`, `C#` and also software engineering practices. Proven ability to `AWS` and `Azure` cloud providers to design and implement cloud native solutions and also to soft skills such as _communication_, _teamwork_, _mentoring_, _training_ and _leadership_. This is my `Portfolio` which is constantly under construction and here you can check some repositories with demo projects, code samples, open source projects, packages and more.
+
+I am currently working for [Deel](https://www.deel.com/), a global payroll platform in the payments vertical to perform automated payouts. Checkout my Github Account at [felipe-oriani-deel](https://github.com/felipe-oriani-deel).
 
 ### 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/felipeoriani/)
